@@ -1,5 +1,6 @@
 <?php 
 	$ip = $_GET['ip'];
+	echo $ip;
 // 	$databaseHost = 'localhost';
 // 	$databaseName = 'licenses';
 // 	$databaseUsername = 'root';
